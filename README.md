@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile+views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ammardzaky-ut&label=Profile+views&color=blue&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Developer-Open_to_Collaboration-blueviolet?style=flat&logo=github" alt="Developer" />
 </div>
 
