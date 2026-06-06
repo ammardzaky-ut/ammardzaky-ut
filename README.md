@@ -7,7 +7,7 @@
 
 ### About Me:
 
-* An undergraduate **Informations Systems** student at UT
+* An undergraduate **Information Systems** student at UT
 * Constantly learning **Python, CLI Development, Power Platform**
 * You can reach me at mammardzaky0@gmail.com
 
